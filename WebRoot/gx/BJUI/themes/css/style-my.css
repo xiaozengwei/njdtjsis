@@ -1,0 +1,27 @@
+.form-advice {
+	margin: 0px;
+	padding: 0px;
+	border: 0px solid rgb(0, 0, 0);
+	border-image: none;
+	width:100%;
+	display:block;
+	line-height:21px
+}
+.form-advice label{ font-size:15px; font-weight:100;padding:0px 5px;
+
+}
+
+.form-advice_user_and_date {
+	margin: 0px;
+	padding: 0px 5px 0px 0px;
+	border: 0px solid rgb(0, 0, 0);
+	border-image: none;
+	text-align: right;
+	width:100%;
+	display:block;
+	
+}
+.form-advice_user_and_date > img {
+	width: 86px;
+	height: 45px;
+}
